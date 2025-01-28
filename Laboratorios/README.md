@@ -8,9 +8,9 @@ A continuación, son listadas las temáticas de cada uno de los laboratorios:
 
 ## Laboratorio 1
 ### Práctica 1
-- 
+- Regresión lineal + Escaladores
 ### Práctica 2
-- 
+- Regresiones polinomiales
 
 ## Laboratorio 2
 ### Práctica 1
